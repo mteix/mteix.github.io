@@ -1,3 +1,4 @@
 theme: jekyll-theme-minimal
 title: Marcio T homepage
 description: Will keep my notes and notebooks on Machine Learning
+markdown: kramdown
