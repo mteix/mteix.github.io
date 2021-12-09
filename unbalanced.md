@@ -14,7 +14,7 @@ Se tentarmos ajustar qualquer modelo de _machine learning_ vamos observar que os
 Este problema pode ser resolvido usando-se a biblioteca [imblearn](https://imbalanced-learn.org/stable/index.html) do Python. Vamos estudar a seguir algumas técnicas para balancear os dados. 
 
 ## *Oversampling*
-
+**ONGOING**
 Quando se aumenta artificialmente a quantidade de uma dada categoria para deixá-la similar a outra têm-se o _oversampling_. 
 
 Algumas técnicas de _oversampling_ estão descritas abaixo
@@ -24,3 +24,5 @@ Algumas técnicas de _oversampling_ estão descritas abaixo
 Esta técnica cria uma distribuição sintética pegando aleatórimente um ponto (_p1_) na categoria menos representada, calculando os seus _K-nearest neighbors (KNN)_ e adicinando estes novos pontos entre p1 e seus vizinhos. 
 
 ## *Undersampling*
+
+**TODO**
