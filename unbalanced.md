@@ -15,4 +15,12 @@ Este problema pode ser resolvido usando-se a biblioteca [imblearn](https://imbal
 
 ## *Oversampling*
 
+Quando se aumenta artificialmente a quantidade de uma dada categoria para deixá-la similar a outra têm-se o _oversampling_. 
+
+Algumas técnicas de _oversampling_ estão descritas abaixo
+
+### SMOTE (Synthetic Minority Over-sampling TEchnique)
+
+Esta técnica cria uma distribuição sintética 
+
 ## *Undersampling*
