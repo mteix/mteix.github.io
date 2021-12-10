@@ -69,5 +69,9 @@ Esta métrica mede o quão preciso o modelo é com respeito às quantidades que 
 
 ## Referências
 
-1. https://diegomariano.com/metricas-de-avaliacao-em-machine-learning/
-2.
+1. https://mabittar.github.io/Metricas/
+2. https://diegomariano.com/metricas-de-avaliacao-em-machine-learning/
+2. https://en.wikipedia.org/wiki/Precision_and_recall#Definition_(classification_context)
+3. https://towardsdatascience.com/accuracy-precision-recall-or-f1-331fb37c5cb9
+
+
